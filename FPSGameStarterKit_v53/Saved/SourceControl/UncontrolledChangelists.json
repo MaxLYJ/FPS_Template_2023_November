@@ -16,7 +16,9 @@
 				"D:/Git/FPS_Template/FPS_Template_2023_November/FPSGameStarterKit_v53/Content/FPS_Game/Blueprints/Bonus/AI/Soldier/BTTask_SoldierMeleeMoveToPlayer.uasset",
 				"D:/Git/FPS_Template/FPS_Template_2023_November/FPSGameStarterKit_v53/Content/FPS_Game/Blueprints/Bonus/AI/Soldier/BTService_SoldierMeleeCalmsDown.uasset",
 				"D:/Git/FPS_Template/FPS_Template_2023_November/FPSGameStarterKit_v53/Content/FPS_Game/Maps/Testing.umap",
-				"D:/Git/FPS_Template/FPS_Template_2023_November/FPSGameStarterKit_v53/Content/FPS_Game/Blueprints/Bonus/AI/Soldier/BTService_SoldierShootPlayer.uasset"
+				"D:/Git/FPS_Template/FPS_Template_2023_November/FPSGameStarterKit_v53/Content/FPS_Game/Blueprints/Bonus/AI/Soldier/BTService_SoldierShootPlayer.uasset",
+				"D:/Git/FPS_Template/FPS_Template_2023_November/FPSGameStarterKit_v53/Content/FPS_Game/Blueprints/TeleportBPs/BP_TeleportDoor.uasset",
+				"D:/Git/FPS_Template/FPS_Template_2023_November/FPSGameStarterKit_v53/Content/FPS_Game/Blueprints/BP_CharacterBase.uasset"
 			]
 		}
 	]
