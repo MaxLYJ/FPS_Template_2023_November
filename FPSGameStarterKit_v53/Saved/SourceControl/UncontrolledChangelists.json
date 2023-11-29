@@ -18,7 +18,15 @@
 				"D:/Git/FPS_Template/FPS_Template_2023_November/FPSGameStarterKit_v53/Content/FPS_Game/Maps/Testing.umap",
 				"D:/Git/FPS_Template/FPS_Template_2023_November/FPSGameStarterKit_v53/Content/FPS_Game/Blueprints/Bonus/AI/Soldier/BTService_SoldierShootPlayer.uasset",
 				"D:/Git/FPS_Template/FPS_Template_2023_November/FPSGameStarterKit_v53/Content/FPS_Game/Blueprints/TeleportBPs/BP_TeleportDoor.uasset",
-				"D:/Git/FPS_Template/FPS_Template_2023_November/FPSGameStarterKit_v53/Content/FPS_Game/Blueprints/BP_CharacterBase.uasset"
+				"D:/Git/FPS_Template/FPS_Template_2023_November/FPSGameStarterKit_v53/Content/FPS_Game/Blueprints/BP_CharacterBase.uasset",
+				"D:/Git/FPS_Template/FPS_Template_2023_November/FPSGameStarterKit_v53/Content/FPS_Game/Blueprints/Bonus/AI/Soldier/AI_Soldier_BehaviorTree.uasset",
+				"D:/Git/FPS_Template/FPS_Template_2023_November/FPSGameStarterKit_v53/Content/FPS_Game/Blueprints/Bonus/AI/Soldier/AI_Soldier_Blackboard.uasset",
+				"D:/Git/FPS_Template/FPS_Template_2023_November/FPSGameStarterKit_v53/Content/FPS_Game/Blueprints/Bonus/AI/Soldier/AI_Con_Soldier.uasset",
+				"D:/Git/FPS_Template/FPS_Template_2023_November/FPSGameStarterKit_v53/Content/FPS_Game/Blueprints/Bonus/AI/AI_Soldier.uasset",
+				"D:/Git/FPS_Template/FPS_Template_2023_November/FPSGameStarterKit_v53/Content/FPS_Game/Blueprints/Bonus/AI/Soldier/BTService_SoldierAgro.uasset",
+				"D:/Git/FPS_Template/FPS_Template_2023_November/FPSGameStarterKit_v53/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Git/FPS_Template/FPS_Template_2023_November/FPSGameStarterKit_v53/Content/ThirdPerson/Blueprints/HitDetection.uasset",
+				"D:/Git/FPS_Template/FPS_Template_2023_November/FPSGameStarterKit_v53/Content/FPS_Game/Blueprints/Bonus/LevelDesign/BP_Teleporter_CampDoor.uasset"
 			]
 		}
 	]
